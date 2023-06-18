@@ -1,0 +1,439 @@
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\x86\sqlite3.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\x64\sqlite3.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe.config
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Proje1.pdb
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Antlr3.Runtime.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\EntityFramework.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\FluentNHibernate.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Iesi.Collections.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\NHibernate.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Remotion.Linq.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\System.Data.SQLite.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\System.Data.SQLite.EF6.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\System.Data.SQLite.Linq.dll
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Antlr3.Runtime.xml
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\EntityFramework.xml
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.xml
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\FluentNHibernate.pdb
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\FluentNHibernate.xml
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Iesi.Collections.xml
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\NHibernate.xml
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Remotion.Linq.xml
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\visual studio\source\repos\Proje1\Proje1\bin\Debug\System.Data.SQLite.xml
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.SuggestedBindingRedirects.cache
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.MainForm.resources
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.CopyComplete
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.exe
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.pdb
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.FilmPanel.resources
+E:\visual studio\source\repos\Proje1\Proje1\obj\Debug\Proje1.SalonForm.resources
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.csprojResolveAssemblyReference.cache
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.FilmPanel.resources
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.MainForm.resources
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.MainPage.resources
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.SalonForm.resources
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.Seans.resources
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.Cache
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\x86\sqlite3.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\x64\sqlite3.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\EntityFramework.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\FluentNHibernate.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Iesi.Collections.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\NHibernate.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Remotion.Linq.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\EntityFramework.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\FluentNHibernate.pdb
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\FluentNHibernate.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Iesi.Collections.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\NHibernate.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Remotion.Linq.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Eclipse\Desktop\Proje1\Proje1\obj\Debug\Proje1.SelectionPage.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\x86\sqlite3.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\x64\sqlite3.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\EntityFramework.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Iesi.Collections.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\NHibernate.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Antlr3.Runtime.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\EntityFramework.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.pdb
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Iesi.Collections.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\NHibernate.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.xml
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.FilmPanel.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.MainForm.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.MainPage.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.SalonForm.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.Seans.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.SelectionPage.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CopyComplete
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.UserInformation.resources
+C:\Users\furka\OneDrive\Masaüstü\proje\Proje1\Proje1\obj\Debug\Proje1.Tickets.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\x86\sqlite3.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\x64\sqlite3.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\netstandard.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.AppContext.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Collections.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.ComponentModel.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Console.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Data.Common.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Globalization.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.Compression.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.Pipes.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Linq.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.Http.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.Ping.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.Requests.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.Security.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.Sockets.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.ObjectModel.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Reflection.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Resources.Reader.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Resources.Writer.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Security.Claims.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Security.Principal.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Security.SecureString.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Text.Encoding.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Threading.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Threading.Thread.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Threading.Timer.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.ValueTuple.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Xml.XPath.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\EntityFramework.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Iesi.Collections.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\NHibernate.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Antlr3.Runtime.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\EntityFramework.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.pdb
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Iesi.Collections.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\NHibernate.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.exe.config
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.FilmPanel.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.MainForm.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.MainPage.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.SalonForm.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.Seans.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.SelectionPage.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.Tickets.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.UserInformation.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CopyComplete
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\mrxsh\OneDrive\Masaüstü\proje31\proje\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\x86\sqlite3.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\x64\sqlite3.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\netstandard.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.AppContext.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Collections.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.ComponentModel.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Console.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.Common.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Globalization.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.Compression.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.Pipes.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Linq.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.Http.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.Ping.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.Requests.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.Security.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.Sockets.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.ObjectModel.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Reflection.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Resources.Reader.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Resources.Writer.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Security.Claims.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Security.Principal.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Security.SecureString.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Text.Encoding.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Threading.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Threading.Thread.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Threading.Timer.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.ValueTuple.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Xml.XPath.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\EntityFramework.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Iesi.Collections.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\NHibernate.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Antlr3.Runtime.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\EntityFramework.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.pdb
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Iesi.Collections.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\NHibernate.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.xml
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.exe.config
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.MainPage.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.Seans.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.SelectionPage.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.Tickets.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.UserInformation.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CopyComplete
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\mrxsh\OneDrive\Masaüstü\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\x86\sqlite3.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\x64\sqlite3.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\EntityFramework.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Iesi.Collections.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\NHibernate.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Antlr3.Runtime.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\EntityFramework.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.pdb
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\FluentNHibernate.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Iesi.Collections.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\NHibernate.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\bin\Debug\System.Data.SQLite.xml
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.MainPage.resources
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.Seans.resources
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.SelectionPage.resources
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.Tickets.resources
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.UserInformation.resources
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CopyComplete
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\iremo\OneDrive\Masaüstü\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.exe.config
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.MainPage.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.SelectionPage.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.Tickets.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.UserInformation.resources
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\mrxsh\OneDrive\Masaüstü\sinema-bileti-sat---otomasyonu\sinema-bileti-sat---otomasyonu\görsel programlama\İrem\proje\Proje1\Proje1\obj\Debug\Proje1.pdb
